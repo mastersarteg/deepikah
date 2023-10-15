@@ -1,0 +1,33 @@
+#imagediv{
+    width: 50%;
+    margin-left: 25%;
+}
+
+body{
+    background-color: black;
+}
+
+.center{
+    text-align: center;
+}
+
+h1{
+    color: antiquewhite;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Montserrat', sans-serif;
+    }
+
+p{
+    color: blueviolet;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#idiot{
+    border: 10px solid burlywood;
+    width: 100%;
+}
