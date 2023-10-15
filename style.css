@@ -8,8 +8,7 @@ body{
 }
 
 .center{
-    align-items: center;
-    /* text-align: center; */
+    text-align: center;
 }
 
 h1{
@@ -18,6 +17,8 @@ h1{
     font-family: 'Dancing Script', cursive;
     font-family: 'Libre Baskerville', serif;
     font-family: 'Montserrat', sans-serif;
+    font-size: 80px;
+    font-weight: 300;
     }
 
 p{
@@ -26,6 +27,7 @@ p{
     font-family: 'Dancing Script', cursive;
     font-family: 'Libre Baskerville', serif;
     font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
 }
 
 #idiot{
